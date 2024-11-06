@@ -1,3 +1,7 @@
-![ZIG](./doc/ZOOM-LOGO.png)
+# ZOOM
+
+<!---
+"![ZIG](./doc/ZOOM-LOGO.png)"
+-->
 
 Zig DOOM
